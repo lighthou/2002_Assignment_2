@@ -1,0 +1,17 @@
+
+hsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+@squid:S2160"+Override the "equals" method in this class.(æÌ¶ò
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ÎÌãþÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þàžË
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÙ™ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Ÿ‡Ï
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰÷ÊÑ
+ssquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(Ü¤å‹ýÿÿÿÿ
+]squid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(Ž²ÈÞ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ùé©îüÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1948"#Make "powers" private or transient.(ñ»Ëãûÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(Ž²ÈÞ

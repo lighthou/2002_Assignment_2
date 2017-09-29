@@ -1,0 +1,12 @@
+
+Esquid:S2160"+Override the "equals" method in this class.(“ÉÎõûÿÿÿÿ
+Isquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Þôží
+Isquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Þôží
+Msquid:S2095"3Close this "FileInputStream" in a "finally" clause.(‡åð¿øÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õîÚµøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Ô…‹
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ùé©îüÿÿÿÿ
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+=squid:S1148"#Use a logger to log this exception.(ŽÚ¸ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(ŽÚ¸ÿÿÿÿÿ

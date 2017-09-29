@@ -1,0 +1,22 @@
+
+hsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(é≤»ﬁ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢£ç¿
+4squid:S2097"Add a type test to this method.(∞—µò
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º≥É≥
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë’˜
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºÓ®¥
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÜéÃ˙ˇˇˇˇ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªâ≈Ç¸ˇˇˇˇ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶∫Ï˛
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áŒ¶”
+nsquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(â∆ê˘
+Ssquid:S2259"?A "NullPointerException" could be thrown; "c" is nullable here.(ˆ‚ê
+]squid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(é≤»ﬁ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(˘È©Ó¸ˇˇˇˇ
+=squid:S1948"#Make "traits" private or transient.(›˜ΩÛ˝ˇˇˇˇ

@@ -1,0 +1,4 @@
+
+¶%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'assignment1.IllegalPowerRankingException', as it cannot be thrown from method's body.(†„ש»תÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(†„ש»תÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(שי©מüÿÿÿÿ
